@@ -1,0 +1,1 @@
+I have created a Predicting Home Prices Project using Linear Regression. Here the training set is 80% and testing set is 20%. I have also given a graph showing the variation of the prices using matplotlib.
